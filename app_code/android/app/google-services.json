@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "66671963620",
+    "firebase_url": "https://arduino-mega-data-default-rtdb.firebaseio.com",
+    "project_id": "arduino-mega-data",
+    "storage_bucket": "arduino-mega-data.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:66671963620:android:0dfc097e6d8e140ea5abf1",
+        "android_client_info": {
+          "package_name": "com.huraice.greenguard"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjrd6Y8ZtGpw6WvXL53d70L_T-70xLY1I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
